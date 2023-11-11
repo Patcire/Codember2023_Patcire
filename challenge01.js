@@ -1,5 +1,4 @@
 // Codember - Challenge_01
-// _funciona_
 
 const cadena = 'murcielago leon jirafa cebra elefante rinoceronte hipopotamo ardilla mapache zorro lobo oso puma ' +
     'jaguar tigre leopardo gato perro caballo vaca toro cerdo oveja cabra gallina pato ganso pavo paloma halcon aguila buho ' +
