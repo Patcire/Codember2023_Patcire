@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "Codember_Patcire",
   "version": "1.0.0",
   "dependencies": {
