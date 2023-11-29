@@ -10,16 +10,10 @@ submit bqamidgewtbuz
 
 import {contrasenias} from "./resources/variables_residuales.js";
 
-const vaciar_objeto = (objeto_contrasenia) => {
-    objeto_contrasenia.min = 0
-    objeto_contrasenia.max = 0
-    objeto_contrasenia.letra = ''
-    objeto_contrasenia.cadena = ''
-}
+
 
 
 const desestructurar_contrasenia = (contrasenias) => {
-    const objeto_contrasenia = {}
     const lista_contrasenias = contrasenias.split('\n')
     let lista_desestructurada = []
     for (const contrasenia of lista_contrasenias) {
